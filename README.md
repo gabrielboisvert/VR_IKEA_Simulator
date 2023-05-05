@@ -1,9 +1,6 @@
 # VR_IKEA_Simulator
 
 First VR game made as student.
-- 1 Prog
-- 3 Game Designer
-- 4 weeks
 
 ![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/MainMenu.PNG)
 
@@ -15,9 +12,8 @@ Build basic fourniture the way you want!
 
 # Feature
 - 3 level
-- Drill tool, 3 Drill screw, 3 Drill head
-- Ratchet tool, 3 Ratchet screw, 3 Ratchet head
-- Physic testing on the fourniture at the end
+- Drill, 3 Drill screw, 3 Drill head
+- Ratchet, 3 Ratchet screw, 3 Ratchet head
 - Full vr support
 
 Video Gameplay (https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/lvl1.mp4)
