@@ -18,6 +18,8 @@ Build basic fourniture the way you want!
 
 Video Gameplay (https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/lvl1.mp4)
 
+![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/Throw.gif)
+
 ![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/Tools.PNG)
 
 ![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/Piece.PNG)
@@ -26,3 +28,5 @@ Video Gameplay (https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/S
 ![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/ChairScrew.PNG)
 
 ![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/ChairFinish.PNG)
+
+![alt text](https://github.com/gabrielboisvert/VR_IKEA_Simulator/blob/main/ScreenShot/Build.gif)
